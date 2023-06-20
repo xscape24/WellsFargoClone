@@ -1,0 +1,12 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Congratulations, you signed in!&lt;/h1&gt;
+    &lt;a href=&quot;index.html&quot;&gt;Go back to home page&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;

@@ -1,0 +1,197 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.navbar{
+  background-color: rgb(215, 30, 40);
+  display:flex;
+}
+
+.navbar_container{
+  display:flex;
+  justify-content: space-between;
+  height:75px;
+  width:100%;
+}
+
+#main_logo{
+  color:white;
+  text-decoration:none;
+  text-transform:uppercase;
+  margin:20px 20px 40px 70px;
+  font-size:30px;
+display: flex;
+}
+
+.navbar_menu{
+  display:flex;
+  align-items: end;
+  list-style-type: none;
+  
+
+}
+.navbar_item{
+  height:50px;
+  margin:10px;
+  text-align:center;
+
+}
+.navbar_links {
+  color:white;
+  text-decoration:none;
+  padding:20px 10px 20px 10px;
+  align-items: center;
+  justify-content: center;
+   margin:30px 0px 30px 10px;
+
+
+}
+
+.navbar_btn{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+ width:100%;
+ height:50px;
+ width:70px;
+
+}
+
+.button{
+  display:flex;
+  color:black;
+  background-color: white;
+  justify-content: center;
+  align-items:center;
+  text-decoration:none;
+  border:none;
+  border-radius:20px;
+  border-width:10px;
+  font-weight: bold;
+
+}
+
+
+
+.navbar_footer{
+  display:flex;
+  background-color:rgb(255, 205, 65);
+  color:rgb(255, 205, 65);
+  width:100%;
+  height:5px;
+
+}
+
+.navbar2{
+  display:flex;
+  background-color: rgba(red, green, rgb(225, 225, 227), alpha);
+  height:50px;
+  width:100%;
+
+}
+
+.navbar_menu2{
+  list-style-type: none;
+  display:flex;
+  justify-content:start;
+  justify-content: space-between;
+ background-color: rgb(245, 242, 242);
+ height:50px;
+ width:75%;
+  
+}
+
+.navbar_item2{
+  text-decoration:none;
+  color:black;
+
+}
+
+.navbar_links2{
+  text-decoration:none;
+  color:black;
+  padding-right:20px;
+  padding-left:20px;
+}
+
+.navbar3{
+  display:flex;
+  background-color: white;
+  height:50px;
+  width:100%;
+
+}
+
+.navbar_menu3{
+  list-style-type: none;
+  display:flex;
+  justify-content:start;
+  justify-content: space-between;
+ background-color: white;
+ height:50px;
+ width:75%;
+  
+}
+
+.navbar_item3{
+  text-decoration:none;
+  color:black;
+
+}
+
+.navbar_links3{
+  text-decoration:none;
+  color:black;
+  padding-right:20px;
+  padding-left:20px;
+}
+
+
+#image1{
+  position:absolute;
+}
+
+.signon_btn2{
+  background-color:rgb(215, 30, 40);
+  color:white;
+  height:30px;
+  width:60px;
+ border:0;
+ padding:0;
+ border-radius:30px;
+border-width:20px;
+  font-size:12px;
+}
+
+.signon_links{
+  color:black;
+  text-decoration:none;
+}
+
+.signon_container2{
+  background-color:#F4F0ED;
+  width: 15%;
+}
+
+.ad_container{
+
+
+}
+
+.get_startedbtn{
+  color:black;
+  background-color:white;
+  border: 1px solid black;
+  height:30px;
+  width:100px;
+  border-radius:10px;
+  font-weight:bold;
+}
+
+.footer{
+  background-color: #f9f1ee;
+  height:500px;
+  
+}
